@@ -43,7 +43,7 @@ body {
 	height: 20px;
 }
 
-.carousel-item img {
+.carousel-item picture {
 	width: 100%;
 	height: auto;
 }
